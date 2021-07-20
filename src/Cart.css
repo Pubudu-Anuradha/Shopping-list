@@ -1,0 +1,17 @@
+.Total{
+    text-align: right;
+}
+hr{
+    color: white;
+}
+.Cart{
+    margin: auto;
+    line-height: 25px;
+    width: 400px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 1px 2px 3px 0px black;
+    padding: 1em;
+}
